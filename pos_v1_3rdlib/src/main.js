@@ -1,1 +1,3 @@
-//TODO: Please write code in this file.
+function printInventory(inputs) {
+    _.each([1, 2, 3], alert);
+}
